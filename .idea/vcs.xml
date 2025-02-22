@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Beans_in_Servlet" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Forms_in_Jsp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/JSPBeansExample" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/JspServlet" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MavenJspProject" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Simple_Page_Include" vcs="Git" />
+  </component>
+</project>
